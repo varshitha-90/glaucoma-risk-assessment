@@ -1,0 +1,26 @@
+{
+    "selected_model": "Random Forest",
+    "cv_macro_f1": 0.7304398098779049,
+    "test_accuracy": 0.9180327868852459,
+    "test_balanced_accuracy": 0.8560606060606061,
+    "test_macro_f1": 0.8484578760715981,
+    "classes": {
+        "0": "Healthy",
+        "1": "Glaucoma",
+        "2": "Glaucoma Suspect"
+    },
+    "features": [
+        "Age",
+        "Gender",
+        "Dioptre_1",
+        "Dioptre_2",
+        "Astigmatism",
+        "Phakic_Pseudophakic",
+        "IOP_Pneumatic",
+        "IOP_Perkins",
+        "Pachymetry",
+        "Axial_Length",
+        "VF_MD"
+    ],
+    "warning": "Educational research prototype only; not validated for clinical diagnosis. Results are based on a small dataset."
+}

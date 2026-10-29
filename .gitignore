@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.py[cod]
+.env
+staticfiles/
+.DS_Store
+PAPILA/
+PAPILA.zip
+data/raw/
+
+db.sqlite3
